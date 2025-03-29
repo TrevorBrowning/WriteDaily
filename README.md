@@ -50,7 +50,7 @@ No install required — just double-click and start journaling.
 
 ## 🖼️ Screenshots
 
-*(Add your GIF or screenshot links here!)*
+![WriteDaily Demo](screenshot.gif)
 
 ---
 
